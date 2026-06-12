@@ -1,6 +1,6 @@
 :globe_with_meridians: Hi, I'm Talha Janjua :wave:
 
-Senior Software Engineer • MEAN/MERN • Enterprise Systems Architect • Performance Optimization
+Software Engineer • MEAN/MERN • Enterprise Systems Architect • Performance Optimization
 
 “Architecture scales — code just executes.”
 
